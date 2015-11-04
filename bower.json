@@ -1,8 +1,8 @@
 {
-  "name": "chatwee-website-ng",
-  "description": "Chatwee website rebuild as a SPA with MEAN stack",
+  "name": "qberang-seed",
+  "description": "My own MEAN stack app skeleton based on best practices",
   "authors": [
-    "Pawel Kubera <pawelkubera@chatwee.com>"
+    "Pawel Kubera <pawelqbera@gmail.com>"
   ],
   "license": "MIT",
   "private": true,

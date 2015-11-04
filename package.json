@@ -1,17 +1,17 @@
 {
-  "name": "chatwee-website-ng",
+  "name": "qberang-seed",
   "version": "1.0.0",
-  "description": "Chatwee website rebuild as a SPA with MEAN stack",
+  "description": "My own MEAN stack app skeleton based on best practices",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:pawelqbera/qberang-seed.git"
   },
   "readme": "",
   "main": "server/app.js",
   "scripts": {
     "start": "node server/app.js"
   },
-  "author": "Pawel Kubera <pawelkubera@chatwee.com>",
+  "author": "Pawel Kubera <pawelqbera@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.1",
