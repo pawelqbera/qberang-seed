@@ -1,0 +1,26 @@
+{
+  "name": "chatwee-website-ng",
+  "version": "1.0.0",
+  "description": "Chatwee website rebuild as a SPA with MEAN stack",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readme": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "author": "Pawel Kubera <pawelkubera@chatwee.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  },
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.6.5",
+    "grunt": "^0.4.5"
+  }
+}
